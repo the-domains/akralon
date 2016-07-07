@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#5C3B12'
+    - '#BC9488'
+    - '#D0A69A'
+    - '#E4BEAB'
+  brandStrength: 0.25156544999252795
+  lightness: 0.4221374746904495
+  rhythmicContrast: 0.3514640754918914
+  saturation: 0.6297260051470958
+layout_spectrum: 0.9857009984032405
+name: Akralon
+typography_spectrum: 0.5069207911592205
